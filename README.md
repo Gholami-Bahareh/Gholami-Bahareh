@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Hi](https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/6a69cc1cf11e3a2f5f3b7a95a8aef4ca.gif)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/6a69cc1cf11e3a2f5f3b7a95a8aef4ca.gif" width="300">
+</p>
 
 <!--
 **Gholami-Bahareh/Gholami-Bahareh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
