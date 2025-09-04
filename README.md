@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=Bahar.page)
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/6a69cc1cf11e3a2f5f3b7a95a8aef4ca.gif" width="280">
